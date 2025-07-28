@@ -1,0 +1,3 @@
+Weak: 0
+Medium: 0
+Strong: 0
