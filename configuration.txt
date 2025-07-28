@@ -1,0 +1,3 @@
+# ========== CONFIG ==========
+SENDER_EMAIL = "srushtinikam8042@gmail.com"
+APP_PASSWORD = "rzatbyhqxpgeobsy"
