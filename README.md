@@ -73,5 +73,24 @@ This project focuses on evaluating and improving password security using multipl
     python password_tool_gui.py
 4. __Build EXE (Optional)__
    pyinstaller --onefile --windowed password_tool_gui.py
-5. ## 📷 Screenshots
-   
+5. ## 📚 Folder Structure
+   Cybersecurity_Project/
+├── password_tool_gui.py
+├── password_history_log.txt
+├── session_summary.txt
+├── custom_wordlist.txt
+├── requirements.txt
+├── README.md
+├── dist/ (EXE output)
+└── screenshots/
+## 🧾Conclusion
+The __Smart Password Audit Tool__ combines practical cybersecurity concepts with real-world usability, helping users build secure digital habits. With a clean UI and rich features, it is ideal for both learners and security-conscious users.
+
+---
+
+### ✅ Instructions:
+- Save the above content as a file named `README.md`.
+- Place it inside your project folder.
+- If using GitHub, it will automatically render beautifully on your repo homepage.
+
+Let me know if you want a **shorter version (for submissions)** or to include your **screenshot previews** as well.
